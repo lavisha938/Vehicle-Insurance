@@ -72,7 +72,5 @@ This repository presents an analytical deep dive into a real-world **vehicle ins
 
 ---
 ### 🙌 Connect with Me
-
-If you found this project useful, feel free to follow and star ⭐ this repo. Let’s grow together in the world of data!
-
+ [LinkedIn](https://www.linkedin.com/in/ lavisha-makhija-6804852b7 ) 
 \#DataAnalysis #InsuranceEDA #Python #Seaborn #ClaimPrediction
